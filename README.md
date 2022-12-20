@@ -1,6 +1,6 @@
 Some remark about XGBOOST model
 
-In XGBoost you can try to:
+1/In XGBoost you can try to:
 
 *reduce depth of each tree (max_depth),
 
@@ -11,3 +11,5 @@ In XGBoost you can try to:
 *add more randomness using subsample, colsample_bytree parameters,
 
 *increase lambda and alpha regularization parameters
+
+2/
