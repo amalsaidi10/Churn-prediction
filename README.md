@@ -12,4 +12,4 @@ Some remark about XGBOOST model
 
 *increase lambda and alpha regularization parameters
 
-2/
+2/ boosting algorithms are ideal for imbalanced datasets “because higher weight is given to the minority class at each successive iteration
